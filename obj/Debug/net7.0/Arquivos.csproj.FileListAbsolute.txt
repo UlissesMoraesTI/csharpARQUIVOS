@@ -1,0 +1,14 @@
+C:\dio\Arquivos\bin\Debug\net7.0\Arquivos.exe
+C:\dio\Arquivos\bin\Debug\net7.0\Arquivos.deps.json
+C:\dio\Arquivos\bin\Debug\net7.0\Arquivos.runtimeconfig.json
+C:\dio\Arquivos\bin\Debug\net7.0\Arquivos.dll
+C:\dio\Arquivos\bin\Debug\net7.0\Arquivos.pdb
+C:\dio\Arquivos\obj\Debug\net7.0\Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dio\Arquivos\obj\Debug\net7.0\Arquivos.AssemblyInfoInputs.cache
+C:\dio\Arquivos\obj\Debug\net7.0\Arquivos.AssemblyInfo.cs
+C:\dio\Arquivos\obj\Debug\net7.0\Arquivos.csproj.CoreCompileInputs.cache
+C:\dio\Arquivos\obj\Debug\net7.0\Arquivos.dll
+C:\dio\Arquivos\obj\Debug\net7.0\refint\Arquivos.dll
+C:\dio\Arquivos\obj\Debug\net7.0\Arquivos.pdb
+C:\dio\Arquivos\obj\Debug\net7.0\Arquivos.genruntimeconfig.cache
+C:\dio\Arquivos\obj\Debug\net7.0\ref\Arquivos.dll
